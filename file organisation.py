@@ -5,10 +5,10 @@ import shutil
 import time
 
 # Path of the download folder
-path = r"C:\Users\Nikita\Downloads"
+path = r"C:\Users\username\Downloads"
 
 # Path of the old junk folder
-old_junk_path = r"C:\Users\Nikita\Downloads\old junk"
+old_junk_path = r"C:\Users\username\Downloads\old junk"
 
 # Get the current time
 current_time = time.time()
